@@ -4,7 +4,7 @@ Welcome to my Git Hub.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustlrtbvj&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustlrtbvj&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-김현식
+나민주
 -------------
 학력 : 고려대학교 세종캠퍼스 공공행정학과    
 주거지 : 광주광역시    
