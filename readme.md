@@ -2,7 +2,7 @@ Welcome to my Git Hub.
 =============
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustlrtbvj&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustlrtbvj&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustlrtbvj&layout=compact&theme=graywhite)](https://github.com/skalswn/github-readme-stats)
 
 나민주
 -------------
